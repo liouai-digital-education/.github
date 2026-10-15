@@ -9,7 +9,7 @@ Liouaï conçoit des manuels, des parcours et des supports d'apprentissage pour 
 
 ---
 
-## ⭐ À la une : Algèbre linéaire, penser, calculer, interpréter
+## ⭐ À la une : Algèbre linéaire appliquée à la data science
 
 Un parcours *Computer-Based Maths* avec Python, **gratuit et en ligne**. Python fait le calcul ; vous faites tout le reste : formuler le problème, choisir les outils, critiquer le résultat, l'expliquer.
 
@@ -35,7 +35,7 @@ Chaque contenu suit la même progression :
 
 | Projet | Format | État |
 |---|---|---|
-| [Algèbre linéaire : penser, calculer, interpréter](https://liouai-digital-education.github.io/algebre-lineaire-cbm/) | Site web · notebooks Jupyter | ✅ Publié |
+| [Algèbre linéaire appliquée à la data science](https://liouai-digital-education.github.io/algebre-lineaire-cbm/) | Site web · notebooks Jupyter | ✅ Publié |
 | Les mathématiques de LinkedIn : mesurer avant d'agir | Workbook PDF · scripts et données | 🧪 Version de test |
 | Les maths du data analyst : les prérequis, en autonomie | Workbook | 🛠️ En préparation |
 | Explorations arithmétiques pour adultes curieux | Deux tomes PDF | 🛠️ En préparation |
